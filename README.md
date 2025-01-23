@@ -28,3 +28,4 @@ Every screenshot should have some text explaining what the screenshot is about.
 Example below.
 
 *Ref 1: Network Diagram*
+![image](https://github.com/user-attachments/assets/17cabadd-0eb8-4356-a7f5-52c29189d399)
