@@ -14,18 +14,13 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Splunk
+- Sysmon
+- Atomic Red Team
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
 
 *Ref 1: Network Diagram*
-![image](https://github.com/user-attachments/assets/17cabadd-0eb8-4356-a7f5-52c29189d399)
+
+![image](https://github.com/user-attachments/assets/cc17c236-d5ab-442d-823d-4fb230b3e5f0)
