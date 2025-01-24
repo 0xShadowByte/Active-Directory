@@ -7,11 +7,8 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Understanding of operating VMs with the assists of VirtualBox
+- 
 
 ### Tools Used
 
