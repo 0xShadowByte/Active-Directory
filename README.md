@@ -6,7 +6,7 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 
 ### Skills Learned
 
-- Understanding of operating VMs with the assists of VirtualBox
+- Understanding how to operate VMs with the assistants of VirtualBox
 - 
 
 ### Tools Used
