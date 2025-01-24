@@ -5,7 +5,6 @@
 To develop a strong understanding of Active Directory (AD) fundamentals, including user and group management, authentication, permissions, and security policies. This knowledge will enhance my ability to support IT Help Desk operations, troubleshoot access issues, and strengthen organizational security by implementing best practices in identity and access management.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
 - Understanding of operating VMs with the assists of VirtualBox
 - 
