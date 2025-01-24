@@ -16,6 +16,7 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 ### Tools Used
 
 - Splunk
+- VirtualBox
 - Sysmon
 - Atomic Red Team
 
