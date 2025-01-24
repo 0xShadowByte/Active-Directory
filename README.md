@@ -13,6 +13,7 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 
 - Splunk
 - VirtualBox
+- Kali Linux (VM)
 - Sysmon
 - Atomic Red Team
 
@@ -26,6 +27,13 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 
 ![image](https://github.com/user-attachments/assets/10ca1802-7457-4fae-b203-ed8d9fefa478)
 
+*Ref 3: Allocating resources to VM*
 
+![image](https://github.com/user-attachments/assets/4bb867bc-41f3-4d49-ab1c-11cd133df6f8)
 
+*Ref 4: VM Running Windows*
+
+![image](https://github.com/user-attachments/assets/4ec1153f-7c2c-49d3-8722-0d3dae653b10)
+
+*Ref 5: *
 
