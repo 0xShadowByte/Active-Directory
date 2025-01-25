@@ -50,3 +50,7 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 *Ref 8: Basic Active Directory Setup Activity*
 
 ![image](https://github.com/user-attachments/assets/2c678e9d-af27-4419-9370-a4f7678ced8e)
+
+*Ref 9: Create Organizational Units (OUs) for different departments*
+
+![image](https://github.com/user-attachments/assets/2ac9b7ba-241c-4fd4-b160-ac8d132a685b)
