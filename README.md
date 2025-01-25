@@ -45,7 +45,8 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 
 ![image](https://github.com/user-attachments/assets/03bee42e-c684-48e0-b9bd-27daca956f62)
 
+*Ref 7: Installing Windows Server 2022 on VM*
 
-
+![image](https://github.com/user-attachments/assets/547d4e1a-7e1f-4cce-a230-b8ed6a9563c4)
 
 
