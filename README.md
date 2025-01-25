@@ -38,3 +38,9 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 *Ref 5: Installing Kali Linux*
 
 ![image](https://github.com/user-attachments/assets/8463673d-88fa-4d17-84ff-ea7d8ee697ad)
+
+*Ref 6: VM up and running*
+
+![image](https://github.com/user-attachments/assets/003dc8e5-03a4-467a-8bbe-f1432bb90d27)
+
+
