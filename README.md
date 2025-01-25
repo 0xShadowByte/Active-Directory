@@ -39,3 +39,6 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 
 ![image](https://github.com/user-attachments/assets/22a3fdad-dfbf-4c81-98ae-6c2f3d518eb7)
 
+*Ref 6: Creating a Domain Controller
+
+![image](https://github.com/user-attachments/assets/05766693-6573-4394-9421-764e1d1a4c46)
