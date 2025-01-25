@@ -63,3 +63,6 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 
 ![image](https://github.com/user-attachments/assets/77c8cc14-9ac2-4849-babc-4141ddefd749)
 
+*Ref 11: Install Splunk Universal Forwarder and Sysmon on target machine*
+
+![image](https://github.com/user-attachments/assets/e1d55693-ab97-482e-be63-0f3a3a934c61)
