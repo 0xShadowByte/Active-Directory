@@ -50,16 +50,7 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 
 ![image](https://github.com/user-attachments/assets/547d4e1a-7e1f-4cce-a230-b8ed6a9563c4)
 
-*Ref 8: Installing Splunk on Ubuntu Server*
+*Ref 8: Installing Splunk on Ubuntu 22.04.3 LTS Server*
 
-![image](https://github.com/user-attachments/assets/67b5aa65-3a53-460a-8644-12f9b66d57cc)
-
-*Ref 9: Trouble shooting "the follow packages have been kept back sosreport*
-
-![image](https://github.com/user-attachments/assets/b044ba94-c05e-46bc-b71e-e21f84628c0c)
-
-*Ref 10: Entered cmmd "sudo apt update" and "sudo apt autoclean" separately*
-
-![image](https://github.com/user-attachments/assets/52d26309-8004-4bad-aa33-9ed25991500c)
-
+![image](https://github.com/user-attachments/assets/934422cb-1f26-449d-a6cf-747a18250d80)
 
