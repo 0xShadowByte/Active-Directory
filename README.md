@@ -71,3 +71,7 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 
 ![image](https://github.com/user-attachments/assets/de9f4d36-4dfd-4117-82f9-9dbca1f6a511)
 
+*Ref 14: DL-ITAdmin as a distribution list, ex: email*
+
+![image](https://github.com/user-attachments/assets/5f0d2d36-8fca-44e1-adfc-4b0b7a9b28ea)
+
