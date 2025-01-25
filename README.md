@@ -50,6 +50,7 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 
 ![image](https://github.com/user-attachments/assets/547d4e1a-7e1f-4cce-a230-b8ed6a9563c4)
 
-*Ref 8: Installing Ubuntu Server*
+*Ref 8: Installing Splunk on Ubuntu Server*
 
+![image](https://github.com/user-attachments/assets/67b5aa65-3a53-460a-8644-12f9b66d57cc)
 
