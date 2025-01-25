@@ -58,5 +58,8 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 
 ![image](https://github.com/user-attachments/assets/b044ba94-c05e-46bc-b71e-e21f84628c0c)
 
+*Ref 10: Entered cmmd "sudo apt update" and "sudo apt autoclean" separately*
+
+![image](https://github.com/user-attachments/assets/52d26309-8004-4bad-aa33-9ed25991500c)
 
 
