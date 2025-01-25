@@ -7,6 +7,7 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 ### Skills Learned
 
 - Understanding how to operate VMs with the assistants of VirtualBox
+- Learn how to trouble shoot command lines with ChatGPT
 - 
 
 ### Tools Used
@@ -53,4 +54,12 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 *Ref 8: Installing Splunk on Ubuntu 22.04.3 LTS Server*
 
 ![image](https://github.com/user-attachments/assets/4b90e7a2-415c-41d2-9c0e-79084ea50e1e)
+
+*Ref 9: Enabling SSH on Ubuntu 22.04.3 LTS Server to run Splunk*
+
+![image](https://github.com/user-attachments/assets/f4feba6b-4aa1-4fa7-a7af-b037d65e72d3)
+
+*Ref 10: sudo ufw allow OpenSSH; sudo ufw allow 8000*
+
+![image](https://github.com/user-attachments/assets/77c8cc14-9ac2-4849-babc-4141ddefd749)
 
