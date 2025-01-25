@@ -15,6 +15,7 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 - VirtualBox
 - Kali Linux
 - Windows Server 2022
+- Ubuntu Server
 - ChatGPT
 - Sysmon
 - Atomic Red Team
