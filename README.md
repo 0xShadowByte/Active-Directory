@@ -63,12 +63,11 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 
 ![image](https://github.com/user-attachments/assets/72a22cb9-bf68-4a31-a1b9-c75204fd4d82)
 
-*Ref 12: Creating a new group, IT, in USA; repeat for the rest of the OUs*
+*Ref 12: Security Groups*
 
-![image](https://github.com/user-attachments/assets/e0b46fd9-d5d8-43ed-b19d-6600d60aace9)
+![image](https://github.com/user-attachments/assets/9f320cc0-fded-4de6-aa45-a8e4ad372f43)
 
+*Ref 13: Distribution Groups*
 
-*Ref 13: Security Groups*
-
-![image](https://github.com/user-attachments/assets/ef7857b8-eee7-4dc8-be1f-fc59f249f208)
+![image](https://github.com/user-attachments/assets/de9f4d36-4dfd-4117-82f9-9dbca1f6a511)
 
