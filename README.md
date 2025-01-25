@@ -54,3 +54,8 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 *Ref 9: Create Organizational Units (OUs) for different departments*
 
 ![image](https://github.com/user-attachments/assets/2ac9b7ba-241c-4fd4-b160-ac8d132a685b)
+
+Ref 10: Steps to create OUs for different departments, repeat for USA, Europe and Asia*
+
+![image](https://github.com/user-attachments/assets/f7c39ff8-effb-4e25-b318-b5582401ed5c)
+
