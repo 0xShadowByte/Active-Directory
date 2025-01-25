@@ -55,7 +55,10 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 
 ![image](https://github.com/user-attachments/assets/2ac9b7ba-241c-4fd4-b160-ac8d132a685b)
 
-Ref 10: Steps to create OUs for different departments, repeat for USA, Europe and Asia*
+*Ref 10: Steps to create OUs for different departments, repeat for USA, Europe and Asia*
 
 ![image](https://github.com/user-attachments/assets/f7c39ff8-effb-4e25-b318-b5582401ed5c)
 
+*Ref 11: Create user accounts and groups withhin these OUs*
+
+![image](https://github.com/user-attachments/assets/36fa0a00-61a8-4c77-a0f6-6302181eef49)
