@@ -54,8 +54,9 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 
 ![image](https://github.com/user-attachments/assets/67b5aa65-3a53-460a-8644-12f9b66d57cc)
 
-*Ref 9: Trouble shooting "processing triggers for man-db (2.12.0-4build2)*
+*Ref 9: Trouble shooting "the follow packages have been kept back sosreport*
 
-![image](https://github.com/user-attachments/assets/b4f7672c-f524-449a-8606-8bb5be80cd02)
+![image](https://github.com/user-attachments/assets/b044ba94-c05e-46bc-b71e-e21f84628c0c)
+
 
 
