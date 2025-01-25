@@ -62,3 +62,8 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 *Ref 11: Creating OUs in USA, Europe and Asia for Computer, Users and Servers*
 
 ![image](https://github.com/user-attachments/assets/72a22cb9-bf68-4a31-a1b9-c75204fd4d82)
+
+*Ref 12: Creating a new group, IT, in USA; repeat for the rest of the OUs*
+
+![image](https://github.com/user-attachments/assets/5fe7a719-3d09-449b-9b7d-78b7b52726c5)
+
