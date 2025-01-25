@@ -52,5 +52,5 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 
 *Ref 8: Installing Splunk on Ubuntu 22.04.3 LTS Server*
 
-![image](https://github.com/user-attachments/assets/934422cb-1f26-449d-a6cf-747a18250d80)
+![image](https://github.com/user-attachments/assets/4b90e7a2-415c-41d2-9c0e-79084ea50e1e)
 
