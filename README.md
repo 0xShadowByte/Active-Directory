@@ -78,3 +78,7 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 *Ref 15: Adding new user to User OUs*
 
 ![image](https://github.com/user-attachments/assets/5d63a018-a88d-4466-9b78-6461da7489a1)
+
+*Ref 16: Hands-on activity for adding user accounts and groups within OUs*
+
+![image](https://github.com/user-attachments/assets/a17d8422-ef7c-424a-aa8e-b74e0c365533)
