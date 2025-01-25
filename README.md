@@ -54,20 +54,8 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 
 ![image](https://github.com/user-attachments/assets/67b5aa65-3a53-460a-8644-12f9b66d57cc)
 
-*Ref 9: Trouble Shooting "updates held due to phasing . . .*
+*Ref 9: Trouble shooting "processing triggers for man-db (2.12.0-4build2)*
 
-![image](https://github.com/user-attachments/assets/83770c5a-6f16-4029-8c1b-2876c30a83a6)
+![image](https://github.com/user-attachments/assets/b4f7672c-f524-449a-8606-8bb5be80cd02)
 
-*Ref 10: Went on google for a solution to the issue and found the solution*
-
-![image](https://github.com/user-attachments/assets/92a6cbfb-295a-4181-bad7-a4e59438e8c9)
-![image](https://github.com/user-attachments/assets/47817b27-b007-41c6-b403-3ce250e27d9c)
-
-*Ref 11: Trouble Shooting "No VM guests are running outdated hypervisor (qemu) binaries on this host"*
-
-![image](https://github.com/user-attachments/assets/ec265515-6c8c-4614-b1b1-21f0715968ef)
-
-*Ref 12 Input cmmd "sudo apt-get purge needrestart" to see if it fixes the issue*
-
-![image](https://github.com/user-attachments/assets/b5905380-a1c4-47e5-be18-bc0820b7fec3)
 
