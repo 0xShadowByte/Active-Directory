@@ -67,5 +67,7 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 
 ![image](https://github.com/user-attachments/assets/ec265515-6c8c-4614-b1b1-21f0715968ef)
 
+*Ref 12 Input cmmd "sudo apt-get purge needrestart" to see if it fixes the issue
 
+![image](https://github.com/user-attachments/assets/b5905380-a1c4-47e5-be18-bc0820b7fec3)
 
