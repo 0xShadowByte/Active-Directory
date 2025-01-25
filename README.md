@@ -67,3 +67,7 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 
 ![image](https://github.com/user-attachments/assets/5fe7a719-3d09-449b-9b7d-78b7b52726c5)
 
+*Ref 13: Security Groups*
+
+![image](https://github.com/user-attachments/assets/ef7857b8-eee7-4dc8-be1f-fc59f249f208)
+
