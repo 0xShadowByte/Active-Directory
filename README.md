@@ -63,11 +63,11 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 ![image](https://github.com/user-attachments/assets/92a6cbfb-295a-4181-bad7-a4e59438e8c9)
 ![image](https://github.com/user-attachments/assets/47817b27-b007-41c6-b403-3ce250e27d9c)
 
-*Ref 11: Trouble Shooting "No VM guests are running outdated hypervisor (qemu) binaries on this host*
+*Ref 11: Trouble Shooting "No VM guests are running outdated hypervisor (qemu) binaries on this host"*
 
 ![image](https://github.com/user-attachments/assets/ec265515-6c8c-4614-b1b1-21f0715968ef)
 
-*Ref 12 Input cmmd "sudo apt-get purge needrestart" to see if it fixes the issue
+*Ref 12 Input cmmd "sudo apt-get purge needrestart" to see if it fixes the issue*
 
 ![image](https://github.com/user-attachments/assets/b5905380-a1c4-47e5-be18-bc0820b7fec3)
 
