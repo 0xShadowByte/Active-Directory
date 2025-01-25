@@ -14,6 +14,7 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 - Splunk
 - VirtualBox
 - Kali Linux (VM)
+- ChatGPT
 - Sysmon
 - Atomic Red Team
 
