@@ -42,3 +42,8 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 *Ref 6: Creating a Domain Controller
 
 ![image](https://github.com/user-attachments/assets/05766693-6573-4394-9421-764e1d1a4c46)
+
+*Ref 7: New domain name shows up at login screen*
+
+![image](https://github.com/user-attachments/assets/528b85ef-9238-4256-ac25-1c0c86215dbe)
+
