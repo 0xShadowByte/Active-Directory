@@ -47,3 +47,6 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 
 ![image](https://github.com/user-attachments/assets/528b85ef-9238-4256-ac25-1c0c86215dbe)
 
+*Ref 8: Basic Active Directory Setup Activity*
+
+![image](https://github.com/user-attachments/assets/2c678e9d-af27-4419-9370-a4f7678ced8e)
