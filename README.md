@@ -26,3 +26,8 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 *Ref 2: Installing VMware Workstation Pro*
 
 ![image](https://github.com/user-attachments/assets/8d50b58d-bd21-45a1-9cdf-dc19591fa629)
+
+*Ref 3: Installing Windows Server 2022 on VM*
+
+![image](https://github.com/user-attachments/assets/7988407d-4020-4a82-bf5d-3a92a8e6560f)
+
