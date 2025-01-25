@@ -7,7 +7,7 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 ### Skills Learned
 
 - Understanding how to operate VMs with the assistants of VMware Workstation Pro 17
-- Learn how to install Active Directory on Windows Server on Virtual Machine
+- Learn how to install Active Directory on Windows Server 2022 on VM
 - 
 
 ### Tools Used
