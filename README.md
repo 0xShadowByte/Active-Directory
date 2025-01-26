@@ -47,38 +47,42 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 
 ![image](https://github.com/user-attachments/assets/2c678e9d-af27-4419-9370-a4f7678ced8e)
 
-*Ref 8: Create Organizational Units (OUs) for different departments*
+*Ref 8: "Active Directory Users and Computers"*
+
+![image](https://github.com/user-attachments/assets/de74e73f-ffe0-4a09-86fd-12aa4beae5c6)
+
+*Ref 9: Create Organizational Units (OUs) for different departments*
 
 ![image](https://github.com/user-attachments/assets/2ac9b7ba-241c-4fd4-b160-ac8d132a685b)
 
-*Ref 9: Steps to create OUs for different departments, repeat for USA, Europe and Asia*
+*Ref 10: Steps to create OUs for different departments, repeat for USA, Europe and Asia*
 
 ![image](https://github.com/user-attachments/assets/f7c39ff8-effb-4e25-b318-b5582401ed5c)
 
-*Ref 10: Create user accounts and groups withhin these OUs*
+*Ref 11: Create user accounts and groups withhin these OUs*
 
 ![image](https://github.com/user-attachments/assets/36fa0a00-61a8-4c77-a0f6-6302181eef49)
 
-*Ref 11: Creating OUs in USA, Europe and Asia for Computer, Users and Servers*
+*Ref 12: Creating OUs in USA, Europe and Asia for Computer, Users and Servers*
 
 ![image](https://github.com/user-attachments/assets/72a22cb9-bf68-4a31-a1b9-c75204fd4d82)
 
-*Ref 12: Security Groups*
+*Ref 13: Security Groups*
 
 ![image](https://github.com/user-attachments/assets/9f320cc0-fded-4de6-aa45-a8e4ad372f43)
 
-*Ref 13: Distribution Groups*
+*Ref 14: Distribution Groups*
 
 ![image](https://github.com/user-attachments/assets/de9f4d36-4dfd-4117-82f9-9dbca1f6a511)
 
-*Ref 14: DL-ITAdmin as a distribution list, ex: email*
+*Ref 15: DL-ITAdmin as a distribution list, ex: email*
 
 ![image](https://github.com/user-attachments/assets/5f0d2d36-8fca-44e1-adfc-4b0b7a9b28ea)
 
-*Ref 15: Adding new user to User OUs*
+*Ref 16: Adding new user to User OUs*
 
 ![image](https://github.com/user-attachments/assets/5d63a018-a88d-4466-9b78-6461da7489a1)
 
-*Ref 16: Hands-on activity for adding user accounts and groups within OUs*
+*Ref 17: Hands-on activity for adding user accounts and groups within OUs*
 
 ![image](https://github.com/user-attachments/assets/a17d8422-ef7c-424a-aa8e-b74e0c365533)
