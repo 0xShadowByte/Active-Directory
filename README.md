@@ -8,6 +8,8 @@ To develop a strong understanding of Active Directory (AD) fundamentals, includi
 
 - Understanding how to operate VMs with the assistants of VMware Workstation Pro 17
 - Learn how to install Active Directory on Windows Server 2022 on VM
+- Learn how to create different organizationl units (OUs) for different departments
+- Learn how to create user accounts and groups within these OUs and adding users, computers, and servers to them
 
 ### Tools Used
 
